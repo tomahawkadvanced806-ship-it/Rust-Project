@@ -10,3 +10,5 @@ maybe can put in system32 to run it
 
 and use command like this(if in System32, open cmd as administrator or Win + R and type cmd and press Ctrl Shift + Enter)
 <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/11d0f239-d3b6-4306-a737-aa198c4274bb" />
+
+also it made by Deepseek too
